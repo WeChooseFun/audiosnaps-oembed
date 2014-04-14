@@ -16,10 +16,7 @@ Add any picture to your blog post or page just by adding the link. Example: http
 == Installation ==
 
 1. Upload `AudioSnaps-oembed` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. That's it
-
-== Frequently Asked Questions ==
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 = What is AudioSnaps? =
 
